@@ -4,7 +4,8 @@ Bu proje, temel kriptografi prensiplerini anlamak amacıyla Java dilinde gelişt
 
 Bu proje, Gazi Üniversitesi'ndeki siber güvenlik eğitimim sırasında Java becerilerimi geliştirmek için oluşturduğum ilk projelerden biridir.
 
-![Sezar Şifreleme Örneği](https://imgur.com/a/6LCYM6R)  ---
+<img width="373" height="87" alt="image" src="https://github.com/user-attachments/assets/7e2efeb6-95d5-4ddc-8c6d-6d25026fe4f1" />
+
 
 ## 🚀 Özellikler
 
